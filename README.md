@@ -13,5 +13,7 @@ Then cd into the project folder and build it.
 
     xbuild /p:TargetFrameworkVersion="v4.5"
 
+    nunit
+
 You should find your test results in TestResults.xml.
 
